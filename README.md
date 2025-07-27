@@ -17,6 +17,15 @@ This program provides hands-on experience and foundational knowledge in:
 
 ---
 
+## 🛠️ Tools & Technologies
+- **Python, Flask**
+- **Keras, Hugging Face Transformers**
+- **OpenAI API, LangChain, RAG**
+- **Pandas, NumPy, Matplotlib**
+- **Git, GitHub, VS Code**
+
+---
+
 
 ## 📘 Course 1: Introduction to Artificial Intelligence (AI)
 
@@ -211,16 +220,6 @@ This program provides hands-on experience and foundational knowledge in:
 
 ---
 
----
-
-## 🛠️ Tools & Technologies
-- **Python, Flask**
-- **Keras, Hugging Face Transformers**
-- **OpenAI API, LangChain, RAG**
-- **Pandas, NumPy, Matplotlib**
-- **Git, GitHub, VS Code**
-
----
 
 ## 🖼️ Demo and Screenshots
 
