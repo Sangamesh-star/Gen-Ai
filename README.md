@@ -14,3 +14,13 @@ This program provides hands-on experience and foundational knowledge in:
 - Deep Learning & NLP
 - LangChain & RAG (Retrieval Augmented Generation)
 - Building & Deploying GenAI Applications
+
+---
+
+## 🛠️ Tools & Technologies
+- **Python, Flask**
+- **Keras, Hugging Face Transformers**
+- **OpenAI API, LangChain, RAG**
+- **Pandas, NumPy, Matplotlib**
+- **Git, GitHub, VS Code**
+
