@@ -223,7 +223,7 @@ This program provides hands-on experience and foundational knowledge in:
 
 ---
 
-## 🌟 Highlights of IBM Generative AI Professional Certificate
+## 🌟 Highlights 
 
 - ✅ **Comprehensive Curriculum**  
 - 🧠 **Hands-On Projects & Labs**  
