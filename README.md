@@ -1,4 +1,4 @@
-# 🧠 Generative AI Engineering
+# Generative AI Engineering🧠
 
 Welcome to my learning journey of **Generative AI** with IBM!  
 This repository contains notes, code, and project work from the 16-course **Professional Certificate** offered by IBM, covering essential concepts and tools in **Generative AI, LLMs, and AI Application Development**.
