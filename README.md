@@ -24,9 +24,9 @@ This program provides hands-on experience and foundational knowledge in:
 - **Pandas, NumPy, Matplotlib**
 - **Git, GitHub, VS Code**
 
-
-# 📚 Topics/Projecs :
 ---
+
+# 📚 Topics :
 
 ## 📘 Course 1: Introduction to Artificial Intelligence (AI)
 
