@@ -223,6 +223,14 @@ This program provides hands-on experience and foundational knowledge in:
 
 ---
 
+## 🛠️ Projects of Gen-AI
+
+| Sl. No. | Project Name | Description |
+|--------:|--------------|-------------|
+| 01 | *To be added...* | This section will include beginner-level Gen-AI mini-projects. Stay tuned! |
+
+---
+
 ## 🌟 Highlights 
 
 - ✅ **Comprehensive Curriculum**  
