@@ -220,6 +220,23 @@ This program provides hands-on experience and foundational knowledge in:
 
 ---
 
+## 🌟 Highlights 
+
+• ✅ **Comprehensive Curriculum**  
+   Covers 16 industry-aligned courses including AI foundations, prompt engineering, LLMs, LangChain, Hugging Face, OpenAI APIs, and GenAI app development.
+
+• 🧠 **Hands-On Projects & Labs**  
+   Includes real-world projects like chatbot creation, GenAI-powered apps, and LLM deployment using tools like Gradio, Streamlit, and LangChain.
+
+• 💼 **Job-Ready Skills for Gen AI Roles**  
+   Designed to equip learners for roles such as AI Engineer, Prompt Engineer, and LLM App Developer with practical and technical skills.
+
+• 🛠️ **Toolstack Mastery**  
+   Get hands-on with popular GenAI tools and frameworks: OpenAI, Hugging Face, LangChain, Python, Jupyter, REST APIs, and GitHub.
+
+• 🎓 **Credibility + Career Boost**  
+   Earn a recognized certificate from IBM and Coursera—great for resumes, job portfolios, and LinkedIn profiles.
+
 
 ## 🖼️ Demo and Screenshots
 
